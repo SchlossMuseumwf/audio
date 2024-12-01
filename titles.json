@@ -1,27 +1,37 @@
 {
-  "de": {
-    "1": "Einführung: Begrüßung Dr. Sandra Donner",
-    "2": "Das Herzogapartment",
-    "3": "Die Antichambre des Herzogs",
-    "4": "Herzog August der Jüngere und seine Söhne Rudolf August und Anton Ulrich",
-    "5": "Das Audienzzimmer des Herzogs",
-    "6": "Die Funktion des Audienzzimmers",
-    "7": "Das Paradeschlafzimmer des Herzogs",
-    "8": "Die Retirade",
-    "9": "Das Konferenzkabinett des Herzogs",
-    "10": "Die Galerie des Herzogs",
-    "11": "Das Kabinett am Essgemach",
-    "12": "Das Lustschloss Salzdahlum",
-    "13": "Das Essgemach"
-  },
-  "en": {
-    "1": "Description of Exhibit 1",
-    "2": "Description of Exhibit 2",
-    "3": "Description of Exhibit 3"
-  },
-  "fr": {
-    "1": "Description de l'exposition 1",
-    "2": "Description de l'exposition 2",
-    "3": "Description de l'exposition 3"
-  }
+    "de": {
+        "1": "Einführung: Begrüßung Dr. Sandra Donner",
+        "2": "Das Herzogapartment",
+        "3": "Die Antichambre des Herzogs",
+        "4": "Herzog August der Jüngere und seine Söhne Rudolf August und Anton Ulrich",
+        "5": "Das Audienzzimmer des Herzogs",
+        "6": "Die Funktion des Audienzzimmers",
+        "7": "Das Paradeschlafzimmer des Herzogs",
+        "8": "Die Retirade",
+        "9": "Das Konferenzkabinett des Herzogs",
+        "10": "Die Galerie des Herzogs",
+        "11": "Das Kabinett am Essgemach",
+        "12": "Das Lustschloss Salzdahlum",
+        "13": "Das Essgemach"
+    },
+    "en": {
+        "1": "Introduction: Welcome by Dr. Sandra Donner",
+        "2": "The Duke’s Apartment",
+        "3": "The Duke’s Antechamber",
+        "4": "Duke August the Younger and his Sons Rudolf August and Anton Ulrich",
+        "5": "The Duke’s Audience Room",
+        "6": "The Function of the Audience Room",
+        "7": "The Duke’s Parade Bedroom",
+        "8": "The Retirade",
+        "9": "The Duke’s Conference Cabinet",
+        "10": "The Duke’s Gallery",
+        "11": "The Cabinet by the Dining Room",
+        "12": "The Pleasure Palace Salzdahlum",
+        "13": "The Dining Room"
+    },
+    "fr": {
+        "1": "Introduction : Bienvenue par le Dr Sandra Donner",
+        "2": "L'appartement du duc",
+        "3": "L'antichambre du duc"
+    }
 }
